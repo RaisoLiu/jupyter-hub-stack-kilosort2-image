@@ -1,3 +1,8 @@
+# Mix Matlab, Kilosort2, matlab-vnc, gpu-jupyter-stack
+
+上述工具都有各自的作者，不是我本人創作，只是方便起見，我把它們整合在一起給我用，如果有作者覺得不好，跟我說，我會刪掉！
+
+
 # Use MATLAB Integration for Jupyter using VNC in a Docker Container
 
 The `Dockerfile` in this repository builds a Jupyter® Docker® image which contains the `jupyter-matlab-vnc-proxy` package.
